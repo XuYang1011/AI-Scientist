@@ -172,3 +172,10 @@ ICLR2022-OpenReviewData/
 templates/*/run_0/
 templates/*/*.png
 results/*
+
+AI-SCIENTIST/myenv/
+*/myenv/
+*/.env/
+*/venv/
+
+AI-SCIENTIST/env.yml
