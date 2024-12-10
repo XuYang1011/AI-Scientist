@@ -177,5 +177,6 @@ AI-SCIENTIST/myenv/
 */myenv/
 */.env/
 */venv/
+myenv/
 
-AI-SCIENTIST/env.yml
+env.yml
